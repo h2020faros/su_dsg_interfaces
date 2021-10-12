@@ -1,0 +1,8 @@
+# DSG connect service.
+# Wether to connect to MAC address of the DSG device. Empty address : use last DSG address recorded.
+# Return wether the operation is a success.
+
+bool connect
+string address
+---
+bool success
