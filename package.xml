@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <package format="3">
-  <name>dsg_ros2_interfaces</name>
+  <name>su_dsg_interfaces</name>
   <version>0.0.1</version>
-  <description>ROS messages and services for dsg_ros2 package</description>
+  <description>ROS2 interfaces for su_dsg package</description>
   <maintainer email="harle@isir.upmc.fr">Antoine Harlé</maintainer>
   <license>BSD</license>
 

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.5)
-project(dsg_ros2_interfaces)
+project(su_dsg_interfaces)
 
 # Default to C99
 if(NOT CMAKE_C_STANDARD)
